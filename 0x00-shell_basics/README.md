@@ -13,6 +13,7 @@
 
 "mv /tmp/betty /tmp/my_first_directory" - move file betty to dir /tmp/my_first_directory
 
+"rm /tmp/my_first_directory/betty" - delete file betty in rm /tmp/my_first_directory
 
 
 
