@@ -17,7 +17,7 @@
 "rmdir /tmp/my_first_directory" - delete my_first_directory
 
 " cd - " - change to the current directory to last working directory
-
+"ls -la . .. /boot" - script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 
 
 
