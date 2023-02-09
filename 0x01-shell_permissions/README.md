@@ -8,3 +8,4 @@ chmod u+x hello - gives owner execute permission
 chmod ug+x,o+r hello -  execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 chmod ugo+x hello - adds execution permission to the owner, the group owner and the other users, to the file hello
 chmod 007 hello - only gives permission to all other users and not owner and group
+chmod 753 hello - sets the mode of the file hello to -rwxr-x-wx
