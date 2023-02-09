@@ -4,4 +4,4 @@ whoami - prints the username of current user
 groups - prints all the groups the current user is part of.
 README.md sudo chown betty hello - changes the current owner of the file hello to user betty
 touch hello - creates an empty file hello
-chmod 100 hello - gives owner execute permission
+chmod u+x hello - gives owner execute permission
