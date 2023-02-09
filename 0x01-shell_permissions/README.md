@@ -11,3 +11,4 @@ chmod 007 hello - only gives permission to all other users and not owner and gro
 chmod 753 hello - sets the mode of the file hello to -rwxr-x-wx
 chmod --reference-olleh hello - sets the mode of the file hello the same as olleh’s mode.
 chmod -R +X . - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+ mkdir -m 751 my_dir - script that creates a directory called my_dir with permissions 751 in the working directory.
