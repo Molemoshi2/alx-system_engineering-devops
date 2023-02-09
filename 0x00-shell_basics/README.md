@@ -16,6 +16,7 @@
 "rm /tmp/my_first_directory/betty" - delete file betty in rm /tmp/my_first_directory
 "rmdir /tmp/my_first_directory" - delete my_first_directory
 
+" cd - " - change to the current directory to last working directory
 
 
 
